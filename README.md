@@ -1,6 +1,6 @@
 # Iranian App Store Downloader
 
- A powerful command-line tool for downloading Android apps from Iranian app stores (Myket and CafeBazaar) with advanced APK merging capabilities.
+💥 A powerful command-line tool for downloading Android apps from Iranian app stores (Myket and CafeBazaar) with advanced APK merging capabilities.
 
 ## ✨ Features
 
